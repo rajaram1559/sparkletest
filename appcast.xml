@@ -12,7 +12,7 @@
       <title>1.1</title>
       <pubDate>Tue, 20 May 2025 06:02:45 +0530</pubDate>
       <enclosure
-        url="https://firebasestorage.googleapis.com/v0/b/writewise-b1533.firebasestorage.app/o/Updater.dmg?alt=media&token=90f931d9-c3c5-47d3-8c2b-db2765ae1e52"
+        url="https://firebasestorage.googleapis.com/v0/b/writewise-b1533.firebasestorage.app/o/Updater.dmg?alt=media&amp;token=90f931d9-c3c5-47d3-8c2b-db2765ae1e52"
         sparkle:version="2"
         sparkle:shortVersionString="1.1"
         sparkle:minimumSystemVersion="15.2"
