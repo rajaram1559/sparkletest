@@ -13,7 +13,7 @@
       <pubDate>Tue, 20 May 2025 06:02:45 +0530</pubDate>
       <enclosure
         url="https://firebasestorage.googleapis.com/v0/b/writewise-b1533.firebasestorage.app/o/Updater.dmg?alt=media&amp;token=90f931d9-c3c5-47d3-8c2b-db2765ae1e52"
-        sparkle:version="2"
+        sparkle:version="1"
         sparkle:shortVersionString="1.1"
         sparkle:minimumSystemVersion="15.2"
         sparkle:edSignature="5YOgkmlwfbFbmcZ7W8opDbHzy7JVTc0Eg84yBEQn7baXS2w6XDxOCwgYhMp0lp1XN25Uq/tgk3bHgqNhF+s3Dg=="
