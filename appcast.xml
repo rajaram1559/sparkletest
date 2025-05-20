@@ -1,14 +1,24 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-    <channel>
-        <title>MyApp Updater</title>
-        <item>
-            <title>1.1</title>
-            <pubDate>Tue, 20 May 2025 06:02:45 +0530</pubDate>
-            <sparkle:version>1.1</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/writewise-b1533.firebasestorage.app/o/Updater.dmg?alt=media&token=90f931d9-c3c5-47d3-8c2b-db2765ae1e52" length="1094156" type="application/octet-stream" sparkle:edSignature="5YOgkmlwfbFbmcZ7W8opDbHzy7JVTc0Eg84yBEQn7baXS2w6XDxOCwgYhMp0lp1XN25Uq/tgk3bHgqNhF+s3Dg=="/>
-        </item>
-    </channel>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>MyApp Updater</title>
+    <link>https://example.com</link>
+    <description>Update feed for MyApp</description>
+    <language>en</language>
+    
+    <item>
+      <title>1.1</title>
+      <pubDate>Tue, 20 May 2025 06:02:45 +0530</pubDate>
+      <enclosure
+        url="https://firebasestorage.googleapis.com/v0/b/writewise-b1533.firebasestorage.app/o/Updater.dmg?alt=media&token=90f931d9-c3c5-47d3-8c2b-db2765ae1e52"
+        sparkle:version="2"
+        sparkle:shortVersionString="1.1"
+        sparkle:minimumSystemVersion="15.2"
+        sparkle:edSignature="5YOgkmlwfbFbmcZ7W8opDbHzy7JVTc0Eg84yBEQn7baXS2w6XDxOCwgYhMp0lp1XN25Uq/tgk3bHgqNhF+s3Dg=="
+        length="1094156"
+        type="application/octet-stream"/>
+    </item>
+  </channel>
 </rss>
