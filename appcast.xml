@@ -1,21 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-  <channel>
-    <title>SparkleMacTest</title>
-    <item>
-      <title>1.0</title>
-      <pubDate>Tue, 20 May 2025 05:39:05 +0530</pubDate>
-      <sparkle:version>1</sparkle:version>
-      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-      <description><![CDATA[
-        - Initial release of MyApp.
-      ]]></description>
-      <enclosure
-        url="https://firebasestorage.googleapis.com/v0/b/writewise-b1533.firebasestorage.app/o/MyApp.dmg?alt=media&token=38e7d2c0-3a36-4c45-9b06-6174ff4b2d50"
-        length="1093948"
-        type="application/x-apple-diskimage"
-        sparkle:edSignature="vC2rv5EizW/FalNbwfm64b+KvD2deeRC5jPVQjyrN+LB7nPq1pHcGFoRYH2BSY6mb/auFYoN4BuVYm5SjSLHDg=="/>
-    </item>
-  </channel>
+    <channel>
+        <title>SparkleMacTest</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Tue, 20 May 2025 05:52:06 +0530</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/rajaram1559/sparkletest/main/MyApp.dmg" length="1093930" type="application/octet-stream" sparkle:edSignature="aIYqu5bpM1rbIJYjlGxUGpCZFciWo12/fmkgKshwa3DdsmSX9MPfH353Vae/pVAce3ViAAUo75tjqQAohyI4Dw=="/>
+        </item>
+    </channel>
 </rss>
