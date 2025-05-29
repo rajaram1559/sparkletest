@@ -1,4 +1,4 @@
-<?xml version="1.0" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>SparkleMacTest</title>
@@ -8,7 +8,7 @@
             <sparkle:version>1.2</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/writewise-b1533.firebasestorage.app/o/New%20Update.dmg?alt=media&token=691e6230-b1ac-4076-84df-3d07a67534b0" length="1094162" type="application/octet-stream" sparkle:edSignature="GJLZg18c88hvCXZZlP0eq3pttD5WKFR2RBPjbT835ULo0EDaiTcDk/7he3CMTEcw7ph0zZ0BMSfcKaqFi8H0DQ=="/>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/writewise-b1533.firebasestorage.app/o/New%20Update.dmg?alt=media&amp;token=691e6230-b1ac-4076-84df-3d07a67534b0" length="1094162" type="application/octet-stream" sparkle:edSignature="GJLZg18c88hvCXZZlP0eq3pttD5WKFR2RBPjbT835ULo0EDaiTcDk/7he3CMTEcw7ph0zZ0BMSfcKaqFi8H0DQ=="/>
         </item>
     </channel>
 </rss>
